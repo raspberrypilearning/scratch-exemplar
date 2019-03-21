@@ -12,5 +12,5 @@ steps:
 - title: Highlighting text in block colours
 - title: Hints
 - title: 'Challenge: its a challenge'
-challenge: true
+  challenge: true
 - title: 'What next?'
