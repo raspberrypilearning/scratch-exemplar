@@ -1,6 +1,6 @@
 # scratch-exemplar
 
-![scratch-exemplar](banner.png)
+![scratch-exemplar](en/images/banner.png)
 
 Find the project online at [projects.raspberrypi.org/en/projects/scratch-exemplar](https://projects.raspberrypi.org/en/projects/scratch-exemplar)
 
