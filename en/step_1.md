@@ -10,8 +10,6 @@ This is an exemplar project.
 
 Instructions on how to use the project.
 
-https://scratch.mit.edu/projects/295547811/
-
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/295547811/?autostart=false" frameborder="0" scrolling="no"></iframe>
   <img src="images/final.png">

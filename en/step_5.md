@@ -28,6 +28,8 @@ when this sprite clicked
 
 --- /hint ---
 
+--- hint ---
+
 Your code should look like this:
 
 ```blocks3
@@ -35,5 +37,7 @@ when this sprite clicked
 say [Hello] for (2) seconds
 next costume
 ```
+
+--- /hint ---
 
 --- /hints ---
