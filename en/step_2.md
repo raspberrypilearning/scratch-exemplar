@@ -20,11 +20,11 @@ Open the Scratch starter project.
 
 **Online**: open the [starter project](http://rpf.io/scratchexemplaron){:target="_blank"}.
 
-**Offline**: open the [starter project](http://rpf.io/p/en/scratch-cat-goes-skiing-go){:target="_blank"} in the offline editor.
+**Offline**: open the [starter project](http://rpf.io/p/en/scratch-exemplar-go){:target="_blank"} in the offline editor.
 
 If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
-In the starter project, you should see a blank backdrop and a skier sprite.
+In the starter project, you should see ....
 
 ![starter projects](images/starter_project.png)
 
