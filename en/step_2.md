@@ -20,6 +20,8 @@ Open the Scratch starter project.
 
 **Online**: open the [starter project](http://rpf.io/scratchexemplaron){:target="_blank"}.
 
+If you have a Scratch account you can make a copy by clicking **remix**.
+
 **Offline**: open the [starter project](http://rpf.io/p/en/scratch-exemplar-go){:target="_blank"} in the offline editor.
 
 If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
